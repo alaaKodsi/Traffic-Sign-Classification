@@ -1,16 +1,6 @@
 # signature_senior_project
 
-A new Flutter project.
+The project is an easy-to-use mobile application dedicated to recognizing traffic signals by pre-trained neural network technology.
+Through the application, you can take a photo directly or through a photo previously saved in the gallery.
+After the image is taken, it is processed in main steps and in sequence, and through the API, it communicates with the neural network, and we take a result from it, if the image that was taken is a traffic signal or something else, and a signal name is sent if it is recognized as a traffic signal, all of this is built in an easy to use and user friendly mobile application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
